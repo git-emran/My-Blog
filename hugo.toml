@@ -21,9 +21,9 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi!'
+homeIntroTitle = 'Hi 👋!'
 homeIntroContent = """
-I am an Independent Software Engineer with a strong foundation in computer science and a passion for solving complex problems. I also love the design side of things. Since I was a kid, I always believed that I can create better usable products either physical or software.
+I am Emran Hossain, an Independent Software Engineer with a strong foundation in computer science and a passion for solving complex problems. I also love the design side of things. Since I was a kid, I always believed that I can create better usable products either physical or software.
 
 """
 
