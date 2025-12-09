@@ -1,0 +1,42 @@
+
+# Hugo build output
+/public/
+/resources/
+
+# Hugo build lock
+.hugo_build.lock
+
+# Node dependencies (if you add Tailwind, PostCSS, etc.)
+node_modules/
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+# Cache files
+cache/
+.tmp/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment files
+.env
+.env.*.local
+
+# Log files
+*.log
+
+# Backup files
+*.bak
+*.tmp
+
+# Ignore theme submodule build artifacts (if any)
+themes/*/.git
+themes/*/exampleSite/
