@@ -40,3 +40,4 @@ Thumbs.db
 # Ignore theme submodule build artifacts (if any)
 themes/*/.git
 themes/*/exampleSite/
+.
