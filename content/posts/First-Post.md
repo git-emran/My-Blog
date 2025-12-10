@@ -1,7 +1,7 @@
 ---
 title: "Design & Engineering"
 author: "Emran Hossain"
-authorAvatarPath: "/avatar.jpeg"
+authorAvatarPath: "/avatar.jpg"
 summary: "How Product Design is evolving in the era of AI content generation"
 date: "2025-12-09"
 description: "How Product Design is evolving in the era of AI content generation"
