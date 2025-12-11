@@ -3,7 +3,7 @@ title: "Importance of ART in the Age of AI"
 author: "Emran Hossain"
 authorAvatarPath: "/avatar.jpg"
 summary: "How Product Design is evolving in the era of AI content generation"
-date: "2025-12-09"
+date: "2025-12-11"
 description: "How Product Design is evolving in the era of AI content generation"
 toc: true
 readTime: true
