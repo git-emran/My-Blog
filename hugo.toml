@@ -23,7 +23,7 @@ hideHeader = false
 # Intro on main page, content is markdown
 homeIntroTitle = 'Hi 👋!'
 homeIntroContent = """
-I am Emran Hossain, a Software Engineer and a Designer. I like to talk about a certain things and share certain values along with certain principles. This is where I share them. I try to post as often as I can. I talk about tech and life. 
+I am Emran Hossain, a Software Engineer and a Designer. I like to talk about certain things and share certain values along with certain principles. This is where I share them. I try to post as often as I can. I talk about tech and life. 
 
 """
 
