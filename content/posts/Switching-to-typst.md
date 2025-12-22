@@ -15,6 +15,8 @@ showTags: true
 hideBackToTop: false
 ---
 
+![typstvslatex](/images/typst.jpg)
+
 For a long time, LaTeX has been the default choice for writing serious technical documents. Research papers, theses, books, resumes. If it needed structure and precision, LaTeX was usually the answer. I have used it for years and I still respect what it can do.
 
 That said, respect does not always mean enjoyment.
