@@ -70,9 +70,8 @@ Where in typst:
 
 ```typst
 
-\\section{Introduction}
-This is an \\textbf{important} idea.
-
+= Introduction
+This is an *important* idea.
 ```
 
 Typst documents look like documents even before they are compiled.
