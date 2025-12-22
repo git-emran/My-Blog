@@ -45,6 +45,8 @@ LaTeX is optimized for producing correct output. It is not optimized for the exp
 
 As people who build software and design systems, we recognize this immediately. When a tool fights your flow, even if it works, it drains energy.
 
+---
+
 ## Typst Feels Like a Modern tool
 
 Typst is a newer typesetting system built around a simple idea.
@@ -98,6 +100,8 @@ That means:
 
 - No endless trial and error just to fix layout issues
 
+---
+
 ## A Better Mental Model
 
 One of the most refreshing parts of Typst is how consistent it feels.
@@ -105,6 +109,8 @@ One of the most refreshing parts of Typst is how consistent it feels.
 Functions behave like functions. Styles behave like styles. Layout rules feel predictable. You spend less time memorizing special cases and more time expressing intent.
 
 In LaTeX, you often learn what works by copying patterns and hoping they keep working. In Typst, you can usually reason your way to the solution.
+
+---
 
 ## When LaTeX Still Makes Sense
 
