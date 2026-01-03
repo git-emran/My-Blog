@@ -1,6 +1,6 @@
 baseURL = 'https://example.org/'
 languageCode = 'en-us'
-title = ''
+title = 'I'm Emran'
 
 [module]
 [[module.imports]]
@@ -21,9 +21,10 @@ colorPalette = 'default'
 hideHeader = false
 
 # Intro on main page, content is markdown
-homeIntroTitle = 'Hi 👋!'
+homeIntroTitle = 'Welcome to my Blog 👋!'
 homeIntroContent = """
-I am Emran Hossain, a Software Engineer and a Designer. I like to talk about certain things and share certain values along with certain principles. This is where I share them. I try to post as often as I can. I talk about tech and life. 
+I’m Emran Hossain, a Software Engineer and Designer.
+This is my little corner of the internet where I share thoughts, principles, and ideas I care about. I write about technology, life, and everything in between. I post whenever inspiration strikes and sometimes when it doesn’t.
 
 """
 
