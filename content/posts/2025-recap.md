@@ -14,6 +14,8 @@ showTags: true
 hideBackToTop: false
 ---
 
+![Cover Image](/images/ram.jpg)
+
 If historians ever write about 2025, they probably will not start with politics or world events. They will start with a simple sentence.
 
 “Everyone needed more RAM.”
