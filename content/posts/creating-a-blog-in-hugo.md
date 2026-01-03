@@ -3,18 +3,18 @@ title: "Static sites in Hugo"
 author: "Emran Hossain"
 authorAvatarPath: "/avatar.jpg"
 summary: "Creating static sites fast and efficiently with Hugo."
-date: ""
-description: "Art is a fuel for the soul"
+date: "2026-01-03"
+description: "Static sites saves time and brain power."
 toc: true
 readTime: true
 autonumber: true
 math: true
-tags: ["design", "engineering"]
+tags: ["design", "engineering", "static-sites"]
 showTags: true
 hideBackToTop: false
 ---
 
-![hugo](/images/hugo.png)
+![Hugo](/images/hugo.png)
 
 Do you like Static sites ? I do, They are fast. Easy to create. Easy to maintain. This blog is a static site. Building a static site from scratch and maintaining it is not that difficult, but I will NOT say that it is easy. But if you have a bit of knowledge of HTML CSS JavaScript or a Little of just Markdown knowledge you can publish your first site by following this step-by-step guide.
 
@@ -38,7 +38,7 @@ Hugo is ideal for:
 
 - Content heavy websites
 
-Lets create that site. But first Prerequisites.
+Let's create that site. But first Prerequisites.
 
 ## Prerequisites
 
