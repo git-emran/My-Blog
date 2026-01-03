@@ -14,7 +14,7 @@ showTags: true
 hideBackToTop: false
 ---
 
-## Static sites Do you like them ?
+![hugo](/images/hugo.png)
 
 Do you like Static sites ? I do, They are fast. Easy to create. Easy to maintain. This blog is a static site. Building a static site from scratch and maintaining it is not that difficult, but I will NOT say that it is easy. But if you have a bit of knowledge of HTML CSS JavaScript or a Little of just Markdown knowledge you can publish your first site by following this step-by-step guide.
 
