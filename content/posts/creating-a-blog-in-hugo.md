@@ -14,9 +14,11 @@ showTags: true
 hideBackToTop: false
 ---
 
+## Static sites Do you like them ?
+
 Do you like Static sites ? I do, They are fast. Easy to create. Easy to maintain. This blog is a static site. Building a static site from scratch and maintaining it is not that difficult but I will NOT say that it is easy. Someone coming from a non-technical background, just forget it.
 
-That is why people created static site generator. They help you generate and publish static sites with ease. If you are interested to get started, I want to point you in the direction of Hugo, I am not sponsored by them, I just use the product because it is somewhat easy to use. IF I can use it, you can too. By you, I mean anyone who is struggling to create let's say a blog or a quick portfolio site.
+That is why people created static site generators. They help you generate and publish static sites with ease. If you are interested to get started, I want to point you in the direction of Hugo, I am not sponsored by them, I just use the product because it is somewhat easy to use. IF I can use it, you can too. By you, I mean anyone who is struggling to create let's say a blog or a quick portfolio site. I mentioned Hugo, let's atleast understand what they are.
 
 What is Hugo ?
 
