@@ -18,7 +18,6 @@ If historians ever write about 2025, they probably will not start with politics 
 
 “Everyone needed more RAM.”
 
-
 ## The Great RAM panic of 2025
 
 At some point early in the year, people realized that 16 GB of RAM was no longer “plenty.” It was barely polite. Open a browser, an IDE, a design tool, an AI assistant, and maybe a video call, and suddenly your laptop fan sounded like it was preparing for takeoff.
@@ -26,7 +25,6 @@ At some point early in the year, people realized that 16 GB of RAM was no longer
 By mid 2025, buying a new machine without 32 GB felt irresponsible. Buying one with 64 GB felt aspirational. Buying one with 128 GB felt like a personality trait.
 
 Cloud providers smiled quietly as memory prices crept up. Local machines cried quietly as swap files took over entire SSDs. Somewhere, a Chrome tab was still open, consuming 4 GB by itself and refusing to explain why.
-
 
 ## AI Everywhere, All at Once
 
@@ -38,7 +36,6 @@ Productivity tools became AI tools first and products second. Every app had a bu
 
 The most impressive part was not that AI got smarter. It was that it got confident. Sometimes too confident. Nothing quite matched the experience of an AI insisting that a function existed when it absolutely did not.
 
-
 ## Video Generation Went From Gimmick to “Wait, What?”
 
 Then came the videos.
@@ -49,7 +46,6 @@ Suddenly, marketing teams needed fewer stock clips. Creators experimented with A
 
 At the same time, everyone collectively agreed to double-check whether any video they saw online was real. Trust issues became a shared cultural experience.
 
-
 ## GPUs Became the New Gold
 
 If RAM was scarce, GPUs were mythical.
@@ -57,7 +53,6 @@ If RAM was scarce, GPUs were mythical.
 Entire buying guides were written around a single question. “Can it run local models?” Developers became amateur hardware analysts overnight. Terms like VRAM, tensor cores, and inference speed entered casual conversation.
 
 Running AI locally felt empowering, expensive, and slightly rebellious. It also made laptops very warm. More than one person learned exactly where their device vents were located the hard way.
-
 
 ## Gaming in 2025: Can It Run It Though?
 
@@ -75,7 +70,6 @@ Maintaining a modern gaming setup became less about fun and more about logistics
 
 Cloud gaming promised relief, but latency, subscriptions, and region issues kept it from being the universal solution. For many, the future of gaming felt powerful, exciting, and slightly exhausting.
 
-
 ## Looking Back
 
 When we look back at 2025, it will feel like a turning point. Not because everything changed overnight, but because expectations shifted.
@@ -87,4 +81,3 @@ And everyone learned to ask one crucial question before clicking “Install,” 
 “How much RAM does this need?”
 
 And the answer, almost always, was “More than you have.”
-
