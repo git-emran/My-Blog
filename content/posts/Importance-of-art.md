@@ -18,7 +18,7 @@ What is art ? I often asked myself that question, when I was literally 7 years o
 
 #### Expressing yourself
 
-We as a human have invented few different ways of expressing our thoughts. Obvious one is speaking, which is basically making sounds with mouth, we call it language. In a day to day conversation regarding eating, sleeping, etc. or we can also call it communicating about basic human needs, our language system does the job. But when it comes to "Creativity" language lacks a few dimentions.
+We as a human have invented few different ways of expressing our thoughts. Obvious one is speaking, which is basically making sounds with mouth, we call it language. In a day-to-day conversation regarding eating, sleeping, etc. or we can also call it communicating about basic human needs, our language system does the job. But when it comes to "Creativity" language lacks a few dimensions.
 
 If a painter wants to capture the moment he felt when the first sunshine hits a dew drop, the painter must find the perfect color combination, that combination I believe comes from pre-visualization. Pre-visualization is the key to unlock the maximum output during the kickstart of a painting. So two or three layer of abstraction needs to happen in your mind. And the quality of creating those abstractions depends on how well you absorb and store information in order to recreate or create a brand new composition in your mind. Thus you get one step closer to express yourself through a painting.
 
