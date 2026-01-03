@@ -3,7 +3,7 @@ title: "Static sites in Hugo"
 author: "Emran Hossain"
 authorAvatarPath: "/avatar.jpg"
 summary: "Creating static sites fast and efficiently with Hugo."
-date: "2026-01-03"
+date: "2026-01-04"
 description: "Static sites saves time and brain power."
 toc: true
 readTime: true
