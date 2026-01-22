@@ -76,3 +76,20 @@ Remove distractions before you start.
 When your environment signals writing time, your brain follows.
 
 You do not need perfect conditions. You need consistent ones.
+
+## Write About What Is Already in Your head
+
+Many people get stuck because they think they need something important to say. They wait for original ideas or deep insights.
+
+That is unnecessary.
+
+Write about what annoyed you today.
+Write about something you struggled to understand.
+Write about a mistake you made.
+Write about a question you cannot answer yet.
+
+Writing is thinking in slow motion. You do not need finished ideas. You need raw ones.
+
+Clarity is not the starting point. It is the result.
+
+## Quantity Creates Quality Over Time
