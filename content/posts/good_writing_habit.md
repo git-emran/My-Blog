@@ -54,3 +54,25 @@ Writing and publishing are different activities, but people often treat them as 
 When you write for an audience too early, every sentence feels like a performance. You edit before you think. You hesitate instead of exploring ideas.
 
 A strong habit forms when writing is private first.
+Write documents no one will see.
+Keep notes that are messy and incomplete.
+Allow contradictions and half formed thoughts.
+
+Publishing comes later. Editing comes later. Writing comes first.
+
+This separation removes fear and replaces it with curiosity.
+
+## Make Writing Part of Your Environment
+
+Willpower is unreliable. Environment is not.
+
+If writing requires effort just to begin, you will avoid it. Reduce friction wherever possible.
+
+Keep a document always open.
+Use the same notebook every day.
+Write at the same desk or same café.
+Remove distractions before you start.
+
+When your environment signals writing time, your brain follows.
+
+You do not need perfect conditions. You need consistent ones.
