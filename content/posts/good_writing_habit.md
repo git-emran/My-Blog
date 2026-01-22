@@ -93,3 +93,27 @@ Writing is thinking in slow motion. You do not need finished ideas. You need raw
 Clarity is not the starting point. It is the result.
 
 ## Quantity Creates Quality Over Time
+
+Good writing is a side effect of regular writing.
+
+The more you write, the more patterns you notice. You learn which sentences feel natural. You see where you ramble. You start editing instinctively.
+
+This does not happen in a week. It happens quietly over months.
+
+Most people quit right before improvement becomes visible.
+
+Trust accumulation. Bad pages are not wasted. They are training.
+
+## Track the Habit, Not the Output
+
+If you measure success by word count or likes, writing becomes stressful. Some days will feel like failures even if you showed up.
+
+Instead, track the habit itself.
+
+Did you write today?
+Did you sit down at the usual time?
+Did you engage with the page honestly?
+
+These are wins.
+
+Writing regularly is about showing up, not showing off.
