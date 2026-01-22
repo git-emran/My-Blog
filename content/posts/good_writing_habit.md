@@ -22,3 +22,11 @@ The gap between wanting to write and sitting down to write is not talent or inte
 Writing is not an event. It is a practice.
 
 ## Why writing Feels Hard at First
+
+Writing forces you to slow down and confront your own thoughts. That alone is uncomfortable. In your head, ideas feel complete and well formed. On the page, they fall apart. Sentences sound awkward. Points feel weaker than expected. This gap is what makes people stop.
+
+Many beginners assume this discomfort means they are bad at writing. In reality, it means they are doing it correctly.
+
+The page is honest. It exposes unclear thinking. Avoiding writing is often just avoiding that exposure.
+
+Once you accept that early writing will feel clumsy, the resistance weakens. You stop trying to impress and start trying to understand.
