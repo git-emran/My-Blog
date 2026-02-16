@@ -16,7 +16,9 @@ hideBackToTop: false
 
 ![Cover](/images/writerdarkmode.png)
 
-Latest updates on the Writer app. If you don't know about Writer.
+Latest updates on the Writer app. If you don't know about Writer,
+
+[Download Writer (MacOS)](https://github.com/git-emran/simple-notes)
 
 Welcome to Writer. Writer is a Markdown Text editor. With the power of the built in LSP (language server protocol), Syntax highlighting and completions you can build your coding documentation, as a student or a learner practice your DSA, or document your workflow in general using the Markdown syntax and Vim motions.
 
