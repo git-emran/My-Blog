@@ -20,9 +20,9 @@ Built with love by Emran Hossain, Writer continues to bridge the gap between hig
 
 [Download](https://drive.google.com/drive/u/0/folders/1Lkf1h3NBbwpEArD4GSvAekZV1X1toZO1)
 
-### 🤖 Write with AI (Open-Source Power)
+### Write with AI (Open-Source Power)
 
-![AI writing feature](/images/write_ai_writer.gif)
+![AI writing feature](/images/writer_ai.png)
 
 Writing documentation shouldn't be a chore. With the new Write with AI mode, you can leverage the power of Open-router and various open-source LLMs.
 
@@ -30,17 +30,17 @@ Cost-Effective: Use your own API keys to access powerful models for free or at c
 
 The Future: While currently focused on generating new content, upcoming updates will include "Contextual Awareness," allowing the AI to edit, subtract, or refine your existing notes.
 
-### 🔍 Long-Awaited: File Search
+### Long-Awaited: File Search
 
 ![file-search](/images/filesearch.png)
 
 Better late than never! You can now instantly navigate your "brain dumps" with a robust file search, making those "disposable" notes easy to retrieve when they suddenly become important.
 
-### 🎨 A Fresh Coat of Paint
+### A Fresh Coat of Paint
 
 ![new-UI](/images/writer_new.png)
 
-The UI has been completely redesigned. We’ve introduced a new color scheme and UI components that are optimized for long-form writing. Whether you prefer Light or Dark mode, the experience is now much more "soothing for the eye."
+The UI has been completely redesigned. I’ve introduced a new color scheme and UI components that are optimized for long-form writing. Whether you prefer Light or Dark mode, the experience is now much more "soothing for the eye."
 
 ##### 🛠 Why Use Writer?
 
@@ -54,7 +54,7 @@ Writer isn't trying to be a bloated "second brain" app. It’s built for the Vim
 
 "Most note-taking apps don't fit into what I do as a developer. I made a minimal markdown writer that is suitable for disposable work, powered by Vim motions." — Emran Hossain
 
-## 🚀 What Writer Can Become: The "Agent Command Center"
+## What Writer Can Become: The "Agent Command Center"
 
 If you lean into this connection, Writer evolves from a "disposable note app" into a Strategic Instruction Layer.
 
