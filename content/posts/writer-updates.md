@@ -58,16 +58,16 @@ Writer isn't trying to be a bloated "second brain" app. It’s built for the Vim
 
 If you lean into this connection, Writer evolves from a "disposable note app" into a Strategic Instruction Layer.
 
-##### The "Prompt-as-File" Workflow
+### The "Prompt-as-File" Workflow
 
 Instead of typing long prompts into a chat box every time, you write them in Writer. Because Writer has Vim motions and LSP, you can refactor your AI instructions with the same precision you use to refactor code.
 
-##### From "Disposable Notes" to "Context Chunks"
+### From "Disposable Notes" to "Context Chunks"
 
 Since you mentioned Writer is for "brain dumps," these are actually the most valuable data points for a personal AI.
 
 Future Vision: Imagine an "Export to Context" button where your scattered Markdown notes are automatically indexed for your local LLM or Agent, allowing it to "know" your workflow without you ever having to explain it.
 
-##### Mermaid.js as AI Visual Logic
+### Mermaid.js as AI Visual Logic
 
 AI agents are great at writing code but sometimes struggle with complex logic flows. By having Mermaid.js built-in, you can ask the AI: "Analyze my logic in this diagram and find the bottleneck." Writer then becomes a visual debugger for your thoughts.
