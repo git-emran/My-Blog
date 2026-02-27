@@ -18,7 +18,7 @@ Writer, the macOS Markdown editor built specifically for Vim enthusiasts and dev
 
 Built with love by Emran Hossain, Writer continues to bridge the gap between high-speed coding workflows and clean, disposable note-taking.
 
-[Download](https://drive.google.com/drive/u/0/folders/1Lkf1h3NBbwpEArD4GSvAekZV1X1toZO1)
+[Download](https://drive.google.com/drive/u/0/folders/1Lkf1h3NBbwpEArD4GSvAekZV1X1toZO1) [View Project on Github](https://github.com/git-emran/simple-notes)
 
 ### Write with AI (Open-Source Power)
 
