@@ -14,13 +14,11 @@ showTags: true
 hideBackToTop: false
 ---
 
-![alt text](/images/writer.png)
-
 Writer, the macOS Markdown editor built specifically for Vim enthusiasts and developers, just got a major upgrade. Version 2.0 isn't just a patch; it’s a complete reimagining of the "minimalist workspace."
 
 Built with love by Emran Hossain, Writer continues to bridge the gap between high-speed coding workflows and clean, disposable note-taking.
 
-[Download App](https://drive.google.com/drive/u/0/folders/1Lkf1h3NBbwpEArD4GSvAekZV1X1toZO1)
+[Download](https://drive.google.com/drive/u/0/folders/1Lkf1h3NBbwpEArD4GSvAekZV1X1toZO1)
 
 ### 🤖 Write with AI (Open-Source Power)
 
