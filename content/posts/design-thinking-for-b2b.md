@@ -13,8 +13,6 @@ tags: ["research", "b2b"]
 showTags: true
 hideBackToTop: false
 ---
-The Empathy Gap: Why B2B SaaS Platforms Need Design Thinking, Not Just Engineering
-
 For most of its life, business software got a pass on feeling good to use. The logic was simple: nobody chooses enterprise software for fun. A procurement officer signs a contract, an IT department rolls it out, and employees are simply told to use it. Unlike a consumer app that lives or dies by whether people enjoy opening it, B2B software has historically survived on lock in, training manuals, and the sunk cost of a multi year contract.
 
 That logic is starting to fall apart, and the data backing it up has been piling up for years. Companies that treat design as a core discipline rather than a coat of paint applied at the end of a build cycle are outperforming their peers on revenue, shareholder returns, and product delivery speed by wide margins. The research is no longer anecdotal. It comes from McKinsey, Forrester, IBM, Salesforce, Atlassian, and the Nielsen Norman Group, and it converges on a single, somewhat uncomfortable conclusion for anyone still building B2B software the old way: design thinking isn't a nice to have for enterprise products. It is one of the clearest, most measurable levers a SaaS company has.
